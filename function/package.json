@@ -1,0 +1,23 @@
+{
+  "name": "scf_layer_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tencentyun/scf_layer_demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tencentyun/scf_layer_demo/issues"
+  },
+  "homepage": "https://github.com/tencentyun/scf_layer_demo#readme"
+}
