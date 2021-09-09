@@ -1,6 +1,6 @@
 # 腾讯云 SCF 层使用 DEMO。
 
-使用时请参照文档 https://cloud.tencent.com/document/product/583/45760。
+使用时请参照文档 https://cloud.tencent.com/document/product/583/45760 。
 
 将 layer 文件夹中内容作为层上传。
 
